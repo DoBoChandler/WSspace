@@ -1,0 +1,66 @@
+
+#menus {
+    height: 50px;
+    background-color: gainsboro;
+    width: 100%;
+    /*border: red solid 1px;*/
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between ;
+
+      }
+.f {
+    height: 50px;
+    /*width: 100px;*/
+    color: white;
+    float: left;
+}
+
+
+#y1 {
+    /*background-color: #313131;*/
+    background-image: url("../../../resources/img/微信.svg");
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position: center;
+    flex:1
+}
+.message {
+    height: 14px;
+    width: 14px;
+    background-color: #E91E63;
+    position: absolute;
+    left: 80px;
+    top: 685px;
+
+    border-radius: 50%;
+}
+
+#y2 {
+    /*background-color: #E91E63;*/
+    background-image: url("../../../resources/img/通讯录.svg");
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position: center;
+    flex:1
+}
+
+#y3 {
+    /*background-color: bisque;*/
+    background-image: url("../../../resources/img/我 (1).svg");
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position: center;
+    flex:1
+}
+
+#y4 {
+    /*background-color: chartreuse;*/
+    background-image: url("../../../resources/img/发现.svg");
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position: center;
+    flex:1
+}
+
