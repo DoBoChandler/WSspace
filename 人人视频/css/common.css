@@ -23,6 +23,13 @@
 ::-webkit-scrollbar{
     display: none;
 }
+a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    width:  200px;
+    height: 100px;
+}
 /*#time{*/
     /*height: 50px;*/
     /*background-color: #E91E63;*/
