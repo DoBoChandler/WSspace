@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ebeefff6-7cd1-4f7c-92f2-be8709222e5b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/人人视频/homepage/FourthPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/人人视频/homepage/FourthPage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/人人视频/homepage/SecondPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/人人视频/homepage/SecondPage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/人人视频/homepage/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/人人视频/homepage/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/人人视频/index.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,11 +20,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/人人视频/homepage/ThirdPage.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="445">
-                  <caret line="193" column="64" selection-start-line="193" selection-start-column="32" selection-end-line="193" selection-end-column="64" />
+                <state relative-caret-position="274">
+                  <caret line="184" column="28" selection-start-line="184" selection-start-column="28" selection-end-line="184" selection-end-column="28" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#3;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -42,23 +40,23 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/人人视频/homepage/page.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="412">
-                  <caret line="152" column="72" selection-start-line="152" selection-start-column="72" selection-end-line="152" selection-end-column="72" />
+                <state relative-caret-position="279">
+                  <caret line="145" column="65" selection-start-line="145" selection-start-column="65" selection-end-line="145" selection-end-column="65" />
                   <folding>
                     <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#b#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <marker date="1547884838221" expanded="true" signature="5973:6490" ph="..." />
+                    <marker date="1547886019599" expanded="true" signature="6032:6549" ph="..." />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/人人视频/homepage/SecondPage.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="445">
-                  <caret line="127" column="64" selection-start-line="127" selection-start-column="64" selection-end-line="127" selection-end-column="64" />
+                <state relative-caret-position="293">
+                  <caret line="119" column="31" selection-start-line="119" selection-start-column="31" selection-end-line="119" selection-end-column="31" />
                   <folding>
                     <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#b#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -88,8 +86,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/人人视频/homepage/FourthPage.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="407">
-                  <caret line="115" column="65" selection-start-line="115" selection-start-column="65" selection-end-line="115" selection-end-column="65" />
+                <state relative-caret-position="293">
+                  <caret line="109" column="61" selection-start-line="109" selection-start-column="61" selection-end-line="109" selection-end-column="61" />
                   <folding>
                     <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#hr#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -285,7 +283,7 @@
       <workItem from="1547732507243" duration="1460000" />
       <workItem from="1547771230131" duration="22072000" />
       <workItem from="1547812866530" duration="17097000" />
-      <workItem from="1547877729754" duration="4844000" />
+      <workItem from="1547877729754" duration="6088000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1547647883755</created>
@@ -322,11 +320,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547884063467</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1">
+      <created>1547884886365</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1547884886365</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151210000" />
+    <option name="totallyTimeSpent" value="152454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="78" y="28" width="1400" height="820" extended-state="0" />
@@ -617,8 +622,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/人人视频/homepage/FourthPage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="115" column="65" selection-start-line="115" selection-start-column="65" selection-end-line="115" selection-end-column="65" />
+        <state relative-caret-position="293">
+          <caret line="109" column="61" selection-start-line="109" selection-start-column="61" selection-end-line="109" selection-end-column="61" />
           <folding>
             <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#hr#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -630,21 +635,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/人人视频/homepage/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="152" column="72" selection-start-line="152" selection-start-column="72" selection-end-line="152" selection-end-column="72" />
+        <state relative-caret-position="279">
+          <caret line="145" column="65" selection-start-line="145" selection-start-column="65" selection-end-line="145" selection-end-column="65" />
           <folding>
             <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#b#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1547884838221" expanded="true" signature="5973:6490" ph="..." />
+            <marker date="1547886019599" expanded="true" signature="6032:6549" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/人人视频/homepage/SecondPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="119" column="31" selection-start-line="119" selection-start-column="31" selection-end-line="119" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/人人视频/homepage/ThirdPage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="193" column="64" selection-start-line="193" selection-start-column="32" selection-end-line="193" selection-end-column="64" />
+        <state relative-caret-position="274">
+          <caret line="184" column="28" selection-start-line="184" selection-start-column="28" selection-end-line="184" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -652,17 +668,6 @@
             <element signature="n#style#0;n#div#3;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/人人视频/homepage/SecondPage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="127" column="64" selection-start-line="127" selection-start-column="64" selection-end-line="127" selection-end-column="64" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#b#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
