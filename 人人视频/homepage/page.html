@@ -72,7 +72,7 @@
             </div>
             <div id="menus_right"></div>
         </div>
-        <div id="turnfigure" style="background-image: url(../img/img/1.jpg)"></div>
+        <div id="turnfigure" style="background-image: url('../img/img/1.jpg')"></div>
 
         <div id="good">
             <div id="good_left">
@@ -179,7 +179,7 @@
 
 </html>
 
-<script src="/人人视频/js/jquery.js"></script>
+<script src="../js/jquery.js"></script>
 
 <script>
     let index = 2;
@@ -188,14 +188,13 @@
 
     function loadImg() {
         if (index === 4) index = 1;
-        $("#turnfigure").css("background-image", "url(../img/img/" + index + ".jpg)");
-        console.log(index);
+        $("#turnfigure").css("background-image", "url('../img/img/" + index + ".jpg')");
         index++;
     }
 
     $(function(){ //当页面加载时
 
-        task = setInterval("loadImg()" , 10); //启动定时器
+        task = setInterval("loadImg()" , 1000); //启动定时器
 
         // $("#img").mouseover(function(){ //鼠标经过
         //     window.clearInterval(task);
